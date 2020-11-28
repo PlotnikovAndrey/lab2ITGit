@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 788: Line is indented, but the preceding hbox statement does not expect a block. Please check this line's indentation.
+    style_prefix "slider"
+    ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Thu Nov 19 15:54:03 2020
